@@ -1,0 +1,2 @@
+
+	<?=GroupVistas::loadScriptsFooter();?>

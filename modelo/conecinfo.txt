@@ -1,0 +1,1 @@
+$conexion=new PDO('mysql:host=PMYSQL107.dns-servicio.com;dbname=6598182_linksringtones','gabriel_admin','9zH0pp8#');
